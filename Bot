@@ -77,5 +77,6 @@ while True:
 
    print(''.join(gamer_word))
 
+#echotest
 #OK
 #and so on ad infinitum
