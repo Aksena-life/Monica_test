@@ -77,5 +77,6 @@ while True:
 
    print(''.join(gamer_word))
 
+#testPyCharmcmd
 #gittest
 #and so on ad infinitum
