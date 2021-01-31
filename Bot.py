@@ -77,7 +77,4 @@ while True:
 
    print(''.join(gamer_word))
 
-#retupe
-#echotest
-#OK
 #and so on ad infinitum
